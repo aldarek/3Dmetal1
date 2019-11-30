@@ -5,7 +5,7 @@ html, body {
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #b52a00;
+	background: #C90000;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 12pt;
 	font-weight: 400;
@@ -177,7 +177,7 @@ hr {
 
 #menu {
 	overflow: hidden;
-	background: #b52a00;
+	background: #C90000;
 }
 
 #menu ul {
